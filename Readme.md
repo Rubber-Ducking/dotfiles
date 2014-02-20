@@ -1,5 +1,7 @@
 That is my personal backup repository for mir Linux dotfiles.
-
-#vimrc
-#Xdefaults
-#zshrc
+Contains a list of my addons for Vim
+#################
+vimrc
+xdefaults
+zshrc
+#################
