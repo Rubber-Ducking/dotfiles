@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/chromie/.local'
+let g:netrw_dirhist_2='/home/chromie'
+let g:netrw_dirhist_3='/home/chromie/.vim/bundle/vim-surround/plugin'
+let g:netrw_dirhist_4='/home/chromie'
+let g:netrw_dirhist_5='/home/chromie/Desktop'
+let g:netrw_dirhist_6='/home/chromie'
+let g:netrw_dirhist_7='/home/chromie/Downloads'
+let g:netrw_dirhist_8='/home/chromie'
+let g:netrw_dirhist_9='/home/chromie/Downloads'
