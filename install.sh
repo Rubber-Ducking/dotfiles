@@ -3,7 +3,7 @@
 #directory
 dir=~/dotfiles
 olddir=~/dotfiles_old
-files="vimrc vim zshrc" #list of files I want to backup
+files="vimrc vim zshrc Xdefaults" #list of files I want to backup
 
 echo "create $olddir"
 mkdir -p $olddir
