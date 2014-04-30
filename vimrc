@@ -1,7 +1,8 @@
 "Installing Add-Ons with Pathogen
 execute pathogen#infect()
 "
-set t_Co=256
+"let g:solarized_termcolors=256
+"set t_Co=256
 set expandtab
 set smarttab
 set shiftwidth=4
@@ -21,5 +22,5 @@ let g:SuperTabDefaultCompletionType = "<c-x><c-o>"
 let g:SuperTabClosePreviewOnPopupClose = 1
 let g:user_emmet_leader_key = '<c-z>'
 let g:use_emmet_complete_tag = 1
-set background=dark
+"set background=dark
 colorscheme solarized
