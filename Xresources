@@ -1,3 +1,9 @@
+!FONTS
+urxvt*font: xft:DejaVu Sans Mono:size=10
+!URxvt*font: xft:bitstream vera sans mono:size=16:antialias=true
+!General Settings:
+
+URxvt*scrollBar: false
 #define S_yellow        #b58900
 #define S_orange        #cb4b16
 #define S_red           #dc322f
