@@ -24,3 +24,13 @@ let g:user_emmet_leader_key = '<c-z>'
 let g:use_emmet_complete_tag = 1
 "set background=dark
 colorscheme solarized
+
+nnoremap <leader>h <C-w>h
+nnoremap <leader>j <C-w>j
+nnoremap <leader>k <C-w>k
+nnoremap <leader>l <C-w>l
+
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
